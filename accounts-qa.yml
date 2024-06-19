@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Eazy Bank Accounts QA APIs "
+  contactDetails:
+    name: "JD -Dev- QA"
+    email: "jd-QA@test.com"
+  onCallSupport:
+    - +55 12345678
+    - +55 87654321

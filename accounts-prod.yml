@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazy Bank Accounts Prod APIs "
+  contactDetails:
+    name: "JD -Dev- prod"
+    email: "jd-PROD@test.com"
+  onCallSupport:
+    - +66 12345678
+    - +66 87654321

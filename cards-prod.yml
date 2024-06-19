@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome to cards prod REST API"
+  contactDetails:
+    name: "cards PROD API"
+    email: "cards-prod@test.com"
+  onCallSupport:
+    - +66 9999999
+    - +66 8888888

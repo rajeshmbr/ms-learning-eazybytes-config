@@ -1,0 +1,11 @@
+build:
+  version: "3.3"
+
+loans:
+  message: "Welcome to Loans REST API"
+  contactDetails:
+    name: "loans API"
+    email: "loans@test.com"
+  onCallSupport:
+    - +44 55555555
+    - +44 66666666

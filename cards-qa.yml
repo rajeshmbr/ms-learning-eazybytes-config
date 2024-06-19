@@ -1,0 +1,11 @@
+build:
+  version: "2.2"
+
+cards:
+  message: "Welcome to cards QA REST API"
+  contactDetails:
+    name: "cards QA API"
+    email: "cards-QA@test.com"
+  onCallSupport:
+    - +55 9999999
+    - +55 8888888

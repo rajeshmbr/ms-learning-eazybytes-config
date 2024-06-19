@@ -1,0 +1,11 @@
+build:
+  version: "2.3"
+
+cards:
+  message: "Welcome to cards REST API"
+  contactDetails:
+    name: "cards API"
+    email: "cards@test.com"
+  onCallSupport:
+    - +44 9999999
+    - +44 8888888

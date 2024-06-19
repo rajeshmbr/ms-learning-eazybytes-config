@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Eazy Bank Accounts APIs"
+  contactDetails:
+    name: "JD -Dev"
+    email: "jd@test.com"
+  onCallSupport:
+    - +44 12345678
+    - +44 87654321

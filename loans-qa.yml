@@ -1,0 +1,11 @@
+build:
+  version: "3.2"
+
+loans:
+  message: "Welcome to Loans QA REST API"
+  contactDetails:
+    name: "loans QA API"
+    email: "loans-qa@test.com"
+  onCallSupport:
+    - +55 55555555
+    - +55 66666666

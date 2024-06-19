@@ -2,7 +2,7 @@ build:
   version: "3.1"
 
 loans:
-  message: "Welcome to Loans production REST API"
+  message: "Welcome to Loans prod REST API"
   contactDetails:
     name: "loans prod API"
     email: "loans-prod@test.com"

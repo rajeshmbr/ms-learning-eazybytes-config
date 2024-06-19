@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazy Bank Accounts production APIs "
+  message: "Welcome to Eazy Bank Accounts prod APIs "
   contactDetails:
     name: "JD -Dev- production"
     email: "{cipher}c1c574d077b6ec57edbbb81c562e3e73e2f93d98f46263fa58dadee485855bb992fabdcff8f3cb8ac384d13fb7498ccd"

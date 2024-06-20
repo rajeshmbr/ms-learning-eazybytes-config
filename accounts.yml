@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Eazy Bank Accounts Default APIs"
+  message: "Welcome to Eazy Bank Accounts Defaultt APIs"
   contactDetails:
     name: "JD -Dev"
     email: "jd@test.com"
